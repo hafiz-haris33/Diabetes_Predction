@@ -1,4 +1,4 @@
-# MLOps SP26 Assignment 1: Diabetes Prediction 🩺
+# Diabetes Prediction 🩺
 
 ## Project Description
 This project is an end-to-end Machine Learning Pipeline developed as part of the MLOps SP26 Assignment at Quaid-i-Azam University. It covers everything from data preprocessing and exploratory data analysis (EDA) to model training, evaluation, and finally deploying the best-performing model as a RESTful API using FastAPI. The goal is to accurately predict the likelihood of diabetes in patients based on their medical diagnostic measurements.
