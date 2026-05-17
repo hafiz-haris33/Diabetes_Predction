@@ -10,7 +10,6 @@ This project is an end-to-end Machine Learning Pipeline developed as part of the
 Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
-   ```bash
    git clone <your-github-repo-link>
    cd MLOPS_ASSIGNMENT_1
 
